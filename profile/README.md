@@ -16,7 +16,6 @@ the Joint 22nd IFSA World Congress and 15th EUSFLAT Conference, Bari, Italy,
 
 ### Important dates (23:59 AoE)
 
-|                                       |                      |
 |---------------------------------------|----------------------|
 | **Paper submission deadline**         | **14 February 2027** |
 | Notification of acceptance            | 16 April 2027        |
