@@ -14,8 +14,9 @@ the Joint 22nd IFSA World Congress and 15th EUSFLAT Conference, Bari, Italy,
 
 **[Read the call for papers →](https://ml4fs.github.io)**
 
-### Important dates (23:59 AoE)
+### Important dates
 
+| Milestone                             | Date (23:59 AoE)     |
 |---------------------------------------|----------------------|
 | **Paper submission deadline**         | **14 February 2027** |
 | Notification of acceptance            | 16 April 2027        |
